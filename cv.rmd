@@ -127,8 +127,14 @@ Selected Publications, Posters, and Talks {data-icon=book}
 CV %<>% print_section('academic_articles')
 ```
 
+Package Development {data-icon=box-open}
+--------------------------------------------------------------------------------
 
-Selected Data Science Writing {data-icon=chart-line}
+```{r}
+CV %<>% print_section('package_development')
+```
+
+Selected Writing {data-icon=chart-line}
 --------------------------------------------------------------------------------
 
 ::: aside
