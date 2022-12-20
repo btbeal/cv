@@ -58,7 +58,7 @@ Aside
 if(params$pdf_mode){
   cat("View this CV online with links at _brennanbeal.com/cv/_")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/btbeal/cv/blob/main/raw/cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/btbeal/cv/raw/main/beal_cv.pdf)")
 }
 ```
 
@@ -133,8 +133,11 @@ Package Development {data-icon=box-open}
 ```{r}
 CV %<>% print_section('package_development')
 ```
+<br>
+<br>
+<br>
 
-Selected Writing {data-icon=chart-line}
+Selected Writing/Projects {data-icon=chart-line}
 --------------------------------------------------------------------------------
 
 ::: aside
